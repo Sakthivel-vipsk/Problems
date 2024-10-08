@@ -13,6 +13,10 @@ public class ReverseAString_Palindrome {
         }else {
             System.out.println("Not Palindrome");
         }
+
+        //Using StringBuilder
+        String StringRev= new StringBuilder(str).reverse().toString();
+        System.out.println(StringRev);
     }
 
 }
