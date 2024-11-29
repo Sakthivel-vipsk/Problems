@@ -1,5 +1,6 @@
 package org.JavaArrayPrograms;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class CopyArray {
